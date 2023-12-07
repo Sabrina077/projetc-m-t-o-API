@@ -1,0 +1,170 @@
+[
+  {
+    "nom": "Dunkerque",
+    "temperature": -2,
+    "conditionsMeteo": "Pluvieux",
+    "humidite": 84,
+    "precipitations": 18,
+    "indiceUV": 5
+  },
+  {
+    "nom": "Paris",
+    "temperature": 15,
+    "conditionsMeteo": "Ensoleillé",
+    "humidite": 47,
+    "precipitations": 0,
+    "indiceUV": 8
+  },
+  {
+    "nom": "Marseille",
+    "temperature": 27,
+    "conditionsMeteo": "Nuageux",
+    "humidite": 65,
+    "precipitations": 8,
+    "indiceUV": 3
+  },
+  {
+    "nom": "Lyon",
+    "temperature": 8,
+    "conditionsMeteo": "Pluvieux",
+    "humidite": 92,
+    "precipitations": 12,
+    "indiceUV": 2
+  },
+  {
+    "nom": "Toulouse",
+    "temperature": 20,
+    "conditionsMeteo": "Ensoleillé",
+    "humidite": 38,
+    "precipitations": 0,
+    "indiceUV": 7
+  },
+  {
+    "nom": "Nice",
+    "temperature": 25,
+    "conditionsMeteo": "Nuageux",
+    "humidite": 56,
+    "precipitations": 5,
+    "indiceUV": 4
+  },
+  {
+    "nom": "Nantes",
+    "temperature": 12,
+    "conditionsMeteo": "Pluvieux",
+    "humidite": 78,
+    "precipitations": 15,
+    "indiceUV": 1
+  },
+  {
+    "nom": "Montpellier",
+    "temperature": 22,
+    "conditionsMeteo": "Ensoleillé",
+    "humidite": 43,
+    "precipitations": 0,
+    "indiceUV": 6
+  },
+  {
+    "nom": "Strasbourg",
+    "temperature": 5,
+    "conditionsMeteo": "Pluvieux",
+    "humidite": 88,
+    "precipitations": 20,
+    "indiceUV": 2
+  },
+  {
+    "nom": "Bordeaux",
+    "temperature": 18,
+    "conditionsMeteo": "Nuageux",
+    "humidite": 52,
+    "precipitations": 8,
+    "indiceUV": 3
+  },
+  {
+    "nom": "Lille",
+    "temperature": 0,
+    "conditionsMeteo": "Pluvieux",
+    "humidite": 90,
+    "precipitations": 25,
+    "indiceUV": 1
+  },
+  {
+    "nom": "Rennes",
+    "temperature": 10,
+    "conditionsMeteo": "Nuageux",
+    "humidite": 62,
+    "precipitations": 5,
+    "indiceUV": 4
+  },
+  {
+    "nom": "Reims",
+    "temperature": 3,
+    "conditionsMeteo": "Ensoleillé",
+    "humidite": 80,
+    "precipitations": 0,
+    "indiceUV": 7
+  },
+  {
+    "nom": "Le Havre",
+    "temperature": 7,
+    "conditionsMeteo": "Pluvieux",
+    "humidite": 75,
+    "precipitations": 18,
+    "indiceUV": 2
+  },
+  {
+    "nom": "Saint-Etienne",
+    "temperature": 14,
+    "conditionsMeteo": "Ensoleillé",
+    "humidite": 55,
+    "precipitations": 0,
+    "indiceUV": 6
+  },
+  {
+    "nom": "Toulon",
+    "temperature": 28,
+    "conditionsMeteo": "Nuageux",
+    "humidite": 50,
+    "precipitations": 10,
+    "indiceUV": 4
+  },
+  {
+    "nom": "Grenoble",
+    "temperature": 9,
+    "conditionsMeteo": "Pluvieux",
+    "humidite": 85,
+    "precipitations": 22,
+    "indiceUV": 1
+  },
+  {
+    "nom": "Dijon",
+    "temperature": 6,
+    "conditionsMeteo": "Nuageux",
+    "humidite": 68,
+    "precipitations": 10,
+    "indiceUV": 5
+  },
+  {
+    "nom": "Angers",
+    "temperature": 11,
+    "conditionsMeteo": "Ensoleillé",
+    "humidite": 42,
+    "precipitations": 0,
+    "indiceUV": 8
+  },
+  {
+    "nom": "Nîmes",
+    "temperature": 24,
+    "conditionsMeteo": "Pluvieux",
+    "humidite": 60,
+    "precipitations": 15,
+    "indiceUV": 3
+  },
+  {
+    "nom": "Villeurbanne",
+    "temperature": 16,
+    "conditionsMeteo": "Ensoleillé",
+    "humidite": 48,
+    "precipitations": 0,
+    "indiceUV": 7
+  }
+]

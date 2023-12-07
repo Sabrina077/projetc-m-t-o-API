@@ -1,0 +1,195 @@
+:root {
+  --infos: #16394c;
+}
+
+body {
+  height: 100vh;
+  width: 100vw;
+}
+
+.carte {
+  background-image: url("../img/carte-france.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+  width: 600px;
+}
+
+.div-city{
+    position: absolute;
+}
+
+.button-city {
+  background-color: red;
+  border-radius: 50%;
+  border: none;
+  width: 15px;
+  height: 15px;
+}
+.button-city-paris {
+  background-color: rgb(255, 162, 0);
+  width: 25px;
+  height: 25px;
+}
+
+/* .button-city:hover{
+} */
+
+.dunkerque {
+    top: 40px;
+    left: 295px;
+}
+
+.paris {
+    top: 160px;
+    left: 300px;
+}
+
+.marseille {
+    top: 470px;
+    left: 425px;
+}
+
+.lyon {
+    top: 350px;
+    left: 405px;
+}
+
+.toulouse {
+    top: 445px;
+    left: 270px;
+}
+
+.nice{
+    top: 445px;
+    left: 495px;
+}
+
+.nantes{
+    top: 240px;
+    left: 140px;
+}
+
+.montpellier{
+    top: 455px;
+    left: 350px;
+}
+
+.strasbourg{
+    top: 165px;
+    left: 490px;
+}
+
+.bordeaux{
+    top: 395px;
+    left: 190px;
+}
+
+.lille{
+    top: 60px;
+    left: 325px;
+}
+
+.rennes{
+    top: 200px;
+    left: 160px;
+}
+
+.reims{
+    top: 140px;
+    left: 380px;
+}
+
+.lehavre{
+    top: 120px;
+    left: 220px;
+}
+
+.saint-etienne{
+    top: 365px;
+    left: 380px;
+}
+
+.toulon{
+    top: 475px;
+    left: 450px;
+}
+
+.grenoble{
+    top: 370px;
+    left: 435px;
+}
+
+.dijon{
+    top: 255px;
+    left: 405px;
+}
+
+.angers{
+    top: 225px;
+    left: 180px;
+}
+
+.nîmes{
+    top: 440px;
+    left: 385px;
+}
+
+.villeurbanne{
+    top: 340px;
+    left: 415px;
+}
+
+
+.div-global {
+    position: relative;
+  background-color: var(--infos);
+  border: 5px solid #608194;
+  border-radius: 5px;
+  padding: 10px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 300px;
+  z-index: 2;
+}
+
+.div-infos {
+  background-color: var(--infos);
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h2 {
+  margin: 0;
+}
+
+h2,
+p {
+  color: white;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.conditions-meteo {
+  width: 50px;
+  height: 50px;
+}
+
+.temperature {
+  font-size: 1.5rem;
+}
+
+.div-other-infos {
+  width: 100%;
+  font-size: 1rem;
+  background-color: var(--infos);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
